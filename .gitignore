@@ -2,3 +2,5 @@ settings.json
 wine_data
 .vscode
 .vscode/settings.json
+.ipynb_checkpoints/RetinaNet-checkpoint.ipynb
+logs/.ipynb_checkpoints/train_info-checkpoint.txt
