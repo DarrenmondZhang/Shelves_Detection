@@ -1,3 +1,0 @@
-[submodule "keras-retinanet"]
-	path = keras-retinanet
-	url = git@github.com:fizyr/keras-retinanet.git

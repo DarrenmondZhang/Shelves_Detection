@@ -4,3 +4,4 @@ wine_data
 .vscode/settings.json
 .ipynb_checkpoints/RetinaNet-checkpoint.ipynb
 logs/.ipynb_checkpoints/train_info-checkpoint.txt
+logs/train_info.txt
