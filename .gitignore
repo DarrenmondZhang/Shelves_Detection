@@ -5,3 +5,13 @@ wine_data
 .ipynb_checkpoints/RetinaNet-checkpoint.ipynb
 logs/.ipynb_checkpoints/train_info-checkpoint.txt
 logs/train_info.txt
+models/resnet50_csv_01.h5
+models/resnet50_csv_02.h5
+models/resnet50_csv_03.h5
+models/resnet50_csv_04.h5
+models/resnet50_csv_05.h5
+models/resnet50_csv_06.h5
+models/resnet50_csv_07.h5
+models/resnet50_csv_08.h5
+models/retinanet_inference.h5
+.ipynb_checkpoints/test_1_result-checkpoint.jpg
