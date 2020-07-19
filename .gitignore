@@ -15,3 +15,9 @@ models/resnet50_csv_07.h5
 models/resnet50_csv_08.h5
 models/retinanet_inference.h5
 .ipynb_checkpoints/test_1_result-checkpoint.jpg
+.ipynb_checkpoints/ResNet50-checkpoint.ipynb
+.vscode/settings.json
+data_prep/__pycache__/dataset.cpython-36.pyc
+models/resnet50_csv_09.h5
+.vscode/settings.json
+.vscode/settings.json
